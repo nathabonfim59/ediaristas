@@ -6,7 +6,7 @@ const SafeEnvironment = () => {
     return (
         <SafeEnviromentContainer>
             <Container>
-                Ambiente Seguro
+                Ambiente Seguro <i className={'twf-lock'}/>
             </Container>
         </SafeEnviromentContainer>
     );
